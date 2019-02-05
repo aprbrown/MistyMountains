@@ -2,13 +2,13 @@
 
 Assignment as part of CSC8001 Programming and Data Structures at Newcastle University. This was the first assignment and was an introduction to Object-Oriented programming.
 
-# What I Learned
+## What I Learned
 
 * Creation of objects
 * Getter and Setter methods for objects
 * Working with arrays / ArrayList to store and recall objects
 
-# README from original assignment
+### README from original assignment
 
 TITLE:
 	MistyMountains - CSC8001 project coursework
